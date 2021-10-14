@@ -1,1 +1,1 @@
-Interact with DOM with JQuery library
+Interact with DOM with jQuery library
